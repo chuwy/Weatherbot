@@ -4,13 +4,15 @@ weather = Weather(unit=Unit.CELSIUS)
 
 # Lookup WOEID via http://weather.yahoo.com.
 
+city=input()
+
 lookup = weather.lookup(560743)
 condition = lookup.condition
 print(condition.text)
 
 # Lookup via location name.
 
-location = weather.lookup_by_location('krasnoyarsk')
+location = weather.lookup_by_location('city')
 condition = location.condition
 print(condition.text)
 
