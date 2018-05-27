@@ -1,0 +1,25 @@
+script of receiving data and sending messages
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Natale <natale@natalebook.local>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   __pycache__/number.cpython-36.pyc
+#	new file:   __pycache__/token.cpython-36.pyc
+#	new file:   __pycache__/token_number.cpython-36.pyc
+#	new file:   bot.py
+#	new file:   token_number.py
+#	new file:   updates.json
+#
+# Changes not staged for commit:
+#	modified:   .DS_Store
+#	modified:   updates.json
+#
+# Untracked files:
+#	write git
+#
